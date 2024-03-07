@@ -1,2 +1,2 @@
 # Amino_align
-Python code for bioinformatics about proteins
+Bioinformatic python code for proteins
