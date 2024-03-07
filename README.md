@@ -1,5 +1,5 @@
 # Amino_align
-Bioinformatic python code for proteins.
+Bioinformatic Python code for protein alignments.
 
 # Folders
 ## Amino_alighVersonCntrl
